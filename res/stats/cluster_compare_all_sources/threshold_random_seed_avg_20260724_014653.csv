@@ -1,0 +1,85 @@
+﻿source_file,pretty_source_name,threshold,mean_cluster_count,std_cluster_count,min_cluster_count,max_cluster_count,sample_size,seed_count,mode
+stage3_offical_no_think.csv,Claude + CRS Reference,0.0,800.0,0.0,800,800,800,1,random_sample
+stage3_offical_no_think.csv,Claude + CRS Reference,0.05,790.0,0.0,790,790,800,1,random_sample
+stage3_offical_no_think.csv,Claude + CRS Reference,0.1,767.0,0.0,767,767,800,1,random_sample
+stage3_offical_no_think.csv,Claude + CRS Reference,0.15,730.0,0.0,730,730,800,1,random_sample
+stage3_offical_no_think.csv,Claude + CRS Reference,0.2,692.0,0.0,692,692,800,1,random_sample
+stage3_offical_no_think.csv,Claude + CRS Reference,0.25,648.0,0.0,648,648,800,1,random_sample
+stage3_offical_no_think.csv,Claude + CRS Reference,0.3,611.0,0.0,611,611,800,1,random_sample
+stage3_offical_no_think.csv,Claude + CRS Reference,0.35,569.0,0.0,569,569,800,1,random_sample
+stage3_offical_no_think.csv,Claude + CRS Reference,0.4,527.0,0.0,527,527,800,1,random_sample
+stage3_offical_no_think.csv,Claude + CRS Reference,0.45,474.0,0.0,474,474,800,1,random_sample
+stage3_offical_no_think.csv,Claude + CRS Reference,0.5,424.0,0.0,424,424,800,1,random_sample
+stage3_offical_no_think.csv,Claude + CRS Reference,0.55,374.0,0.0,374,374,800,1,random_sample
+stage3_offical_no_think.csv,Claude + CRS Reference,0.6,328.0,0.0,328,328,800,1,random_sample
+stage3_offical_no_think.csv,Claude + CRS Reference,0.65,275.0,0.0,275,275,800,1,random_sample
+stage3_offical_no_think.csv,Claude + CRS Reference,0.7,228.0,0.0,228,228,800,1,random_sample
+stage3_offical_no_think.csv,Claude + CRS Reference,0.75,179.0,0.0,179,179,800,1,random_sample
+stage3_offical_no_think.csv,Claude + CRS Reference,0.8,126.0,0.0,126,126,800,1,random_sample
+stage3_offical_no_think.csv,Claude + CRS Reference,0.85,78.0,0.0,78,78,800,1,random_sample
+stage3_offical_no_think.csv,Claude + CRS Reference,0.9,38.0,0.0,38,38,800,1,random_sample
+stage3_offical_no_think.csv,Claude + CRS Reference,0.95,10.0,0.0,10,10,800,1,random_sample
+stage3_offical_no_think.csv,Claude + CRS Reference,1.0,1.0,0.0,1,1,800,1,random_sample
+stage3_condition_results_20260601_134846_reloop1.csv,Claude + CRS Reference (R1),0.0,800.0,0.0,800,800,800,1,random_sample
+stage3_condition_results_20260601_134846_reloop1.csv,Claude + CRS Reference (R1),0.05,788.0,0.0,788,788,800,1,random_sample
+stage3_condition_results_20260601_134846_reloop1.csv,Claude + CRS Reference (R1),0.1,785.0,0.0,785,785,800,1,random_sample
+stage3_condition_results_20260601_134846_reloop1.csv,Claude + CRS Reference (R1),0.15,772.0,0.0,772,772,800,1,random_sample
+stage3_condition_results_20260601_134846_reloop1.csv,Claude + CRS Reference (R1),0.2,755.0,0.0,755,755,800,1,random_sample
+stage3_condition_results_20260601_134846_reloop1.csv,Claude + CRS Reference (R1),0.25,725.0,0.0,725,725,800,1,random_sample
+stage3_condition_results_20260601_134846_reloop1.csv,Claude + CRS Reference (R1),0.3,695.0,0.0,695,695,800,1,random_sample
+stage3_condition_results_20260601_134846_reloop1.csv,Claude + CRS Reference (R1),0.35,656.0,0.0,656,656,800,1,random_sample
+stage3_condition_results_20260601_134846_reloop1.csv,Claude + CRS Reference (R1),0.4,603.0,0.0,603,603,800,1,random_sample
+stage3_condition_results_20260601_134846_reloop1.csv,Claude + CRS Reference (R1),0.45,559.0,0.0,559,559,800,1,random_sample
+stage3_condition_results_20260601_134846_reloop1.csv,Claude + CRS Reference (R1),0.5,514.0,0.0,514,514,800,1,random_sample
+stage3_condition_results_20260601_134846_reloop1.csv,Claude + CRS Reference (R1),0.55,455.0,0.0,455,455,800,1,random_sample
+stage3_condition_results_20260601_134846_reloop1.csv,Claude + CRS Reference (R1),0.6,400.0,0.0,400,400,800,1,random_sample
+stage3_condition_results_20260601_134846_reloop1.csv,Claude + CRS Reference (R1),0.65,343.0,0.0,343,343,800,1,random_sample
+stage3_condition_results_20260601_134846_reloop1.csv,Claude + CRS Reference (R1),0.7,272.0,0.0,272,272,800,1,random_sample
+stage3_condition_results_20260601_134846_reloop1.csv,Claude + CRS Reference (R1),0.75,206.0,0.0,206,206,800,1,random_sample
+stage3_condition_results_20260601_134846_reloop1.csv,Claude + CRS Reference (R1),0.8,138.0,0.0,138,138,800,1,random_sample
+stage3_condition_results_20260601_134846_reloop1.csv,Claude + CRS Reference (R1),0.85,85.0,0.0,85,85,800,1,random_sample
+stage3_condition_results_20260601_134846_reloop1.csv,Claude + CRS Reference (R1),0.9,43.0,0.0,43,43,800,1,random_sample
+stage3_condition_results_20260601_134846_reloop1.csv,Claude + CRS Reference (R1),0.95,12.0,0.0,12,12,800,1,random_sample
+stage3_condition_results_20260601_134846_reloop1.csv,Claude + CRS Reference (R1),1.0,1.0,0.0,1,1,800,1,random_sample
+stage3_condition_results_20260601_215323_reloop2.csv,Claude + CRS Reference (R2),0.0,800.0,0.0,800,800,800,1,random_sample
+stage3_condition_results_20260601_215323_reloop2.csv,Claude + CRS Reference (R2),0.05,790.0,0.0,790,790,800,1,random_sample
+stage3_condition_results_20260601_215323_reloop2.csv,Claude + CRS Reference (R2),0.1,783.0,0.0,783,783,800,1,random_sample
+stage3_condition_results_20260601_215323_reloop2.csv,Claude + CRS Reference (R2),0.15,768.0,0.0,768,768,800,1,random_sample
+stage3_condition_results_20260601_215323_reloop2.csv,Claude + CRS Reference (R2),0.2,745.0,0.0,745,745,800,1,random_sample
+stage3_condition_results_20260601_215323_reloop2.csv,Claude + CRS Reference (R2),0.25,728.0,0.0,728,728,800,1,random_sample
+stage3_condition_results_20260601_215323_reloop2.csv,Claude + CRS Reference (R2),0.3,696.0,0.0,696,696,800,1,random_sample
+stage3_condition_results_20260601_215323_reloop2.csv,Claude + CRS Reference (R2),0.35,662.0,0.0,662,662,800,1,random_sample
+stage3_condition_results_20260601_215323_reloop2.csv,Claude + CRS Reference (R2),0.4,617.0,0.0,617,617,800,1,random_sample
+stage3_condition_results_20260601_215323_reloop2.csv,Claude + CRS Reference (R2),0.45,565.0,0.0,565,565,800,1,random_sample
+stage3_condition_results_20260601_215323_reloop2.csv,Claude + CRS Reference (R2),0.5,502.0,0.0,502,502,800,1,random_sample
+stage3_condition_results_20260601_215323_reloop2.csv,Claude + CRS Reference (R2),0.55,442.0,0.0,442,442,800,1,random_sample
+stage3_condition_results_20260601_215323_reloop2.csv,Claude + CRS Reference (R2),0.6,383.0,0.0,383,383,800,1,random_sample
+stage3_condition_results_20260601_215323_reloop2.csv,Claude + CRS Reference (R2),0.65,327.0,0.0,327,327,800,1,random_sample
+stage3_condition_results_20260601_215323_reloop2.csv,Claude + CRS Reference (R2),0.7,260.0,0.0,260,260,800,1,random_sample
+stage3_condition_results_20260601_215323_reloop2.csv,Claude + CRS Reference (R2),0.75,200.0,0.0,200,200,800,1,random_sample
+stage3_condition_results_20260601_215323_reloop2.csv,Claude + CRS Reference (R2),0.8,135.0,0.0,135,135,800,1,random_sample
+stage3_condition_results_20260601_215323_reloop2.csv,Claude + CRS Reference (R2),0.85,80.0,0.0,80,80,800,1,random_sample
+stage3_condition_results_20260601_215323_reloop2.csv,Claude + CRS Reference (R2),0.9,39.0,0.0,39,39,800,1,random_sample
+stage3_condition_results_20260601_215323_reloop2.csv,Claude + CRS Reference (R2),0.95,11.0,0.0,11,11,800,1,random_sample
+stage3_condition_results_20260601_215323_reloop2.csv,Claude + CRS Reference (R2),1.0,1.0,0.0,1,1,800,1,random_sample
+stage3_condition_results_20260603_195710_reloop3.csv,Claude + CRS Reference (R3),0.0,800.0,0.0,800,800,800,1,random_sample
+stage3_condition_results_20260603_195710_reloop3.csv,Claude + CRS Reference (R3),0.05,795.0,0.0,795,795,800,1,random_sample
+stage3_condition_results_20260603_195710_reloop3.csv,Claude + CRS Reference (R3),0.1,786.0,0.0,786,786,800,1,random_sample
+stage3_condition_results_20260603_195710_reloop3.csv,Claude + CRS Reference (R3),0.15,774.0,0.0,774,774,800,1,random_sample
+stage3_condition_results_20260603_195710_reloop3.csv,Claude + CRS Reference (R3),0.2,759.0,0.0,759,759,800,1,random_sample
+stage3_condition_results_20260603_195710_reloop3.csv,Claude + CRS Reference (R3),0.25,742.0,0.0,742,742,800,1,random_sample
+stage3_condition_results_20260603_195710_reloop3.csv,Claude + CRS Reference (R3),0.3,715.0,0.0,715,715,800,1,random_sample
+stage3_condition_results_20260603_195710_reloop3.csv,Claude + CRS Reference (R3),0.35,677.0,0.0,677,677,800,1,random_sample
+stage3_condition_results_20260603_195710_reloop3.csv,Claude + CRS Reference (R3),0.4,634.0,0.0,634,634,800,1,random_sample
+stage3_condition_results_20260603_195710_reloop3.csv,Claude + CRS Reference (R3),0.45,591.0,0.0,591,591,800,1,random_sample
+stage3_condition_results_20260603_195710_reloop3.csv,Claude + CRS Reference (R3),0.5,533.0,0.0,533,533,800,1,random_sample
+stage3_condition_results_20260603_195710_reloop3.csv,Claude + CRS Reference (R3),0.55,481.0,0.0,481,481,800,1,random_sample
+stage3_condition_results_20260603_195710_reloop3.csv,Claude + CRS Reference (R3),0.6,423.0,0.0,423,423,800,1,random_sample
+stage3_condition_results_20260603_195710_reloop3.csv,Claude + CRS Reference (R3),0.65,358.0,0.0,358,358,800,1,random_sample
+stage3_condition_results_20260603_195710_reloop3.csv,Claude + CRS Reference (R3),0.7,281.0,0.0,281,281,800,1,random_sample
+stage3_condition_results_20260603_195710_reloop3.csv,Claude + CRS Reference (R3),0.75,215.0,0.0,215,215,800,1,random_sample
+stage3_condition_results_20260603_195710_reloop3.csv,Claude + CRS Reference (R3),0.8,152.0,0.0,152,152,800,1,random_sample
+stage3_condition_results_20260603_195710_reloop3.csv,Claude + CRS Reference (R3),0.85,90.0,0.0,90,90,800,1,random_sample
+stage3_condition_results_20260603_195710_reloop3.csv,Claude + CRS Reference (R3),0.9,40.0,0.0,40,40,800,1,random_sample
+stage3_condition_results_20260603_195710_reloop3.csv,Claude + CRS Reference (R3),0.95,11.0,0.0,11,11,800,1,random_sample
+stage3_condition_results_20260603_195710_reloop3.csv,Claude + CRS Reference (R3),1.0,1.0,0.0,1,1,800,1,random_sample

@@ -1,0 +1,85 @@
+﻿source_file,pretty_source_name,threshold,mean_cluster_count,std_cluster_count,min_cluster_count,max_cluster_count,sample_size,seed_count,mode
+stage3_filter_payload_CRS_Reference.csv,Claude + CRS Reference,0.0,366.0,0.0,366,366,366,1,random_sample
+stage3_filter_payload_CRS_Reference.csv,Claude + CRS Reference,0.05,364.0,0.0,364,364,366,1,random_sample
+stage3_filter_payload_CRS_Reference.csv,Claude + CRS Reference,0.1,358.0,0.0,358,358,366,1,random_sample
+stage3_filter_payload_CRS_Reference.csv,Claude + CRS Reference,0.15,346.0,0.0,346,346,366,1,random_sample
+stage3_filter_payload_CRS_Reference.csv,Claude + CRS Reference,0.2,335.0,0.0,335,335,366,1,random_sample
+stage3_filter_payload_CRS_Reference.csv,Claude + CRS Reference,0.25,325.0,0.0,325,325,366,1,random_sample
+stage3_filter_payload_CRS_Reference.csv,Claude + CRS Reference,0.3,310.0,0.0,310,310,366,1,random_sample
+stage3_filter_payload_CRS_Reference.csv,Claude + CRS Reference,0.35,297.0,0.0,297,297,366,1,random_sample
+stage3_filter_payload_CRS_Reference.csv,Claude + CRS Reference,0.4,274.0,0.0,274,274,366,1,random_sample
+stage3_filter_payload_CRS_Reference.csv,Claude + CRS Reference,0.45,255.0,0.0,255,255,366,1,random_sample
+stage3_filter_payload_CRS_Reference.csv,Claude + CRS Reference,0.5,227.0,0.0,227,227,366,1,random_sample
+stage3_filter_payload_CRS_Reference.csv,Claude + CRS Reference,0.55,201.0,0.0,201,201,366,1,random_sample
+stage3_filter_payload_CRS_Reference.csv,Claude + CRS Reference,0.6,179.0,0.0,179,179,366,1,random_sample
+stage3_filter_payload_CRS_Reference.csv,Claude + CRS Reference,0.65,154.0,0.0,154,154,366,1,random_sample
+stage3_filter_payload_CRS_Reference.csv,Claude + CRS Reference,0.7,128.0,0.0,128,128,366,1,random_sample
+stage3_filter_payload_CRS_Reference.csv,Claude + CRS Reference,0.75,93.0,0.0,93,93,366,1,random_sample
+stage3_filter_payload_CRS_Reference.csv,Claude + CRS Reference,0.8,65.0,0.0,65,65,366,1,random_sample
+stage3_filter_payload_CRS_Reference.csv,Claude + CRS Reference,0.85,44.0,0.0,44,44,366,1,random_sample
+stage3_filter_payload_CRS_Reference.csv,Claude + CRS Reference,0.9,25.0,0.0,25,25,366,1,random_sample
+stage3_filter_payload_CRS_Reference.csv,Claude + CRS Reference,0.95,8.0,0.0,8,8,366,1,random_sample
+stage3_filter_payload_CRS_Reference.csv,Claude + CRS Reference,1.0,1.0,0.0,1,1,366,1,random_sample
+stage3_filter_payload_CRS_Audit_Log.csv,Claude + CRS Audit Log,0.0,366.0,0.0,366,366,366,1,random_sample
+stage3_filter_payload_CRS_Audit_Log.csv,Claude + CRS Audit Log,0.05,365.0,0.0,365,365,366,1,random_sample
+stage3_filter_payload_CRS_Audit_Log.csv,Claude + CRS Audit Log,0.1,356.0,0.0,356,356,366,1,random_sample
+stage3_filter_payload_CRS_Audit_Log.csv,Claude + CRS Audit Log,0.15,348.0,0.0,348,348,366,1,random_sample
+stage3_filter_payload_CRS_Audit_Log.csv,Claude + CRS Audit Log,0.2,335.0,0.0,335,335,366,1,random_sample
+stage3_filter_payload_CRS_Audit_Log.csv,Claude + CRS Audit Log,0.25,318.0,0.0,318,318,366,1,random_sample
+stage3_filter_payload_CRS_Audit_Log.csv,Claude + CRS Audit Log,0.3,301.0,0.0,301,301,366,1,random_sample
+stage3_filter_payload_CRS_Audit_Log.csv,Claude + CRS Audit Log,0.35,283.0,0.0,283,283,366,1,random_sample
+stage3_filter_payload_CRS_Audit_Log.csv,Claude + CRS Audit Log,0.4,266.0,0.0,266,266,366,1,random_sample
+stage3_filter_payload_CRS_Audit_Log.csv,Claude + CRS Audit Log,0.45,242.0,0.0,242,242,366,1,random_sample
+stage3_filter_payload_CRS_Audit_Log.csv,Claude + CRS Audit Log,0.5,213.0,0.0,213,213,366,1,random_sample
+stage3_filter_payload_CRS_Audit_Log.csv,Claude + CRS Audit Log,0.55,192.0,0.0,192,192,366,1,random_sample
+stage3_filter_payload_CRS_Audit_Log.csv,Claude + CRS Audit Log,0.6,171.0,0.0,171,171,366,1,random_sample
+stage3_filter_payload_CRS_Audit_Log.csv,Claude + CRS Audit Log,0.65,141.0,0.0,141,141,366,1,random_sample
+stage3_filter_payload_CRS_Audit_Log.csv,Claude + CRS Audit Log,0.7,117.0,0.0,117,117,366,1,random_sample
+stage3_filter_payload_CRS_Audit_Log.csv,Claude + CRS Audit Log,0.75,87.0,0.0,87,87,366,1,random_sample
+stage3_filter_payload_CRS_Audit_Log.csv,Claude + CRS Audit Log,0.8,70.0,0.0,70,70,366,1,random_sample
+stage3_filter_payload_CRS_Audit_Log.csv,Claude + CRS Audit Log,0.85,47.0,0.0,47,47,366,1,random_sample
+stage3_filter_payload_CRS_Audit_Log.csv,Claude + CRS Audit Log,0.9,23.0,0.0,23,23,366,1,random_sample
+stage3_filter_payload_CRS_Audit_Log.csv,Claude + CRS Audit Log,0.95,7.0,0.0,7,7,366,1,random_sample
+stage3_filter_payload_CRS_Audit_Log.csv,Claude + CRS Audit Log,1.0,1.0,0.0,1,1,366,1,random_sample
+stage3_filter_payload_Claude.csv,Claude,0.0,366.0,0.0,366,366,366,1,random_sample
+stage3_filter_payload_Claude.csv,Claude,0.05,364.0,0.0,364,364,366,1,random_sample
+stage3_filter_payload_Claude.csv,Claude,0.1,361.0,0.0,361,361,366,1,random_sample
+stage3_filter_payload_Claude.csv,Claude,0.15,351.0,0.0,351,351,366,1,random_sample
+stage3_filter_payload_Claude.csv,Claude,0.2,337.0,0.0,337,337,366,1,random_sample
+stage3_filter_payload_Claude.csv,Claude,0.25,320.0,0.0,320,320,366,1,random_sample
+stage3_filter_payload_Claude.csv,Claude,0.3,299.0,0.0,299,299,366,1,random_sample
+stage3_filter_payload_Claude.csv,Claude,0.35,280.0,0.0,280,280,366,1,random_sample
+stage3_filter_payload_Claude.csv,Claude,0.4,253.0,0.0,253,253,366,1,random_sample
+stage3_filter_payload_Claude.csv,Claude,0.45,232.0,0.0,232,232,366,1,random_sample
+stage3_filter_payload_Claude.csv,Claude,0.5,206.0,0.0,206,206,366,1,random_sample
+stage3_filter_payload_Claude.csv,Claude,0.55,184.0,0.0,184,184,366,1,random_sample
+stage3_filter_payload_Claude.csv,Claude,0.6,161.0,0.0,161,161,366,1,random_sample
+stage3_filter_payload_Claude.csv,Claude,0.65,136.0,0.0,136,136,366,1,random_sample
+stage3_filter_payload_Claude.csv,Claude,0.7,116.0,0.0,116,116,366,1,random_sample
+stage3_filter_payload_Claude.csv,Claude,0.75,91.0,0.0,91,91,366,1,random_sample
+stage3_filter_payload_Claude.csv,Claude,0.8,70.0,0.0,70,70,366,1,random_sample
+stage3_filter_payload_Claude.csv,Claude,0.85,48.0,0.0,48,48,366,1,random_sample
+stage3_filter_payload_Claude.csv,Claude,0.9,24.0,0.0,24,24,366,1,random_sample
+stage3_filter_payload_Claude.csv,Claude,0.95,8.0,0.0,8,8,366,1,random_sample
+stage3_filter_payload_Claude.csv,Claude,1.0,1.0,0.0,1,1,366,1,random_sample
+stage3_filter_payload_LLM_Driven.csv,LLM-Driven,0.0,366.0,0.0,366,366,366,1,random_sample
+stage3_filter_payload_LLM_Driven.csv,LLM-Driven,0.05,289.0,0.0,289,289,366,1,random_sample
+stage3_filter_payload_LLM_Driven.csv,LLM-Driven,0.1,190.0,0.0,190,190,366,1,random_sample
+stage3_filter_payload_LLM_Driven.csv,LLM-Driven,0.15,137.0,0.0,137,137,366,1,random_sample
+stage3_filter_payload_LLM_Driven.csv,LLM-Driven,0.2,98.0,0.0,98,98,366,1,random_sample
+stage3_filter_payload_LLM_Driven.csv,LLM-Driven,0.25,77.0,0.0,77,77,366,1,random_sample
+stage3_filter_payload_LLM_Driven.csv,LLM-Driven,0.3,57.0,0.0,57,57,366,1,random_sample
+stage3_filter_payload_LLM_Driven.csv,LLM-Driven,0.35,40.0,0.0,40,40,366,1,random_sample
+stage3_filter_payload_LLM_Driven.csv,LLM-Driven,0.4,32.0,0.0,32,32,366,1,random_sample
+stage3_filter_payload_LLM_Driven.csv,LLM-Driven,0.45,26.0,0.0,26,26,366,1,random_sample
+stage3_filter_payload_LLM_Driven.csv,LLM-Driven,0.5,19.0,0.0,19,19,366,1,random_sample
+stage3_filter_payload_LLM_Driven.csv,LLM-Driven,0.55,14.0,0.0,14,14,366,1,random_sample
+stage3_filter_payload_LLM_Driven.csv,LLM-Driven,0.6,11.0,0.0,11,11,366,1,random_sample
+stage3_filter_payload_LLM_Driven.csv,LLM-Driven,0.65,9.0,0.0,9,9,366,1,random_sample
+stage3_filter_payload_LLM_Driven.csv,LLM-Driven,0.7,9.0,0.0,9,9,366,1,random_sample
+stage3_filter_payload_LLM_Driven.csv,LLM-Driven,0.75,7.0,0.0,7,7,366,1,random_sample
+stage3_filter_payload_LLM_Driven.csv,LLM-Driven,0.8,7.0,0.0,7,7,366,1,random_sample
+stage3_filter_payload_LLM_Driven.csv,LLM-Driven,0.85,7.0,0.0,7,7,366,1,random_sample
+stage3_filter_payload_LLM_Driven.csv,LLM-Driven,0.9,6.0,0.0,6,6,366,1,random_sample
+stage3_filter_payload_LLM_Driven.csv,LLM-Driven,0.95,2.0,0.0,2,2,366,1,random_sample
+stage3_filter_payload_LLM_Driven.csv,LLM-Driven,1.0,1.0,0.0,1,1,366,1,random_sample
