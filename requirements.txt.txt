@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+tf-keras
+transformers
+requests
+tqdm
+python-dotenv
+anthropic
+openai
+playwright
