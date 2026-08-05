@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <title>innerHTML 測試</title>
+</head>
+<body>
+  <h1>innerHTML 測試頁面</h1>
+
+  <form method="GET">
+    <label for="input">輸入 Payload：</label>
+    <input id="input" name="input" type="text">
+    <button type="submit">送出</button>
+  </form>
+
+  <hr>
+
+  <div id="inner-html-target"></div>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const input = params.get("input") || window.name || "";
+
+    // 1. 測試 innerHTML 注入
+    document.getElementById("inner-html-target").innerHTML = input;
+  </script>
+</body>
+</html>

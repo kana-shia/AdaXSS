@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <title>img onerror 測試</title>
+</head>
+<body>
+  <h1>img onerror 測試頁面</h1>
+
+  <form method="GET">
+    <label for="input">輸入 Payload：</label>
+    <input id="input" name="input" type="text">
+    <button type="submit">送出</button>
+  </form>
+
+  <hr>
+
+  <img id="img-target" src="#" alt="圖片測試區">
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const input = window.name || params.get("input") || "";
+  
+    const img = document.getElementById("img-target");
+    img.setAttribute("src", "invalid.png");  // 保證會錯誤
+    img.setAttribute("onerror", input);      // payload 為 handler，例如 alert('XSS')
+  </script>
+</body>
+</html>
