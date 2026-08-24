@@ -11,14 +11,14 @@ python Claude_XSS_Mutations_Official_Ref.py (Claude + CRS Reference, , res/claud
 
 4. 統一執行 PL、ML 與 CRS 驗證
 modsecurity-crs-docker 的 /etc/modsecurity.d/setup.conf 要設定
-# 啟用 ModSecurity
+啟用 ModSecurity
 SecRuleEngine On
 
-# CRS 基本規則
+CRS 基本規則
 Include /etc/modsecurity.d/owasp-crs/crs-setup.conf
 Include /etc/modsecurity.d/owasp-crs/rules/*.conf
 
-# 啟用 audit log
+啟用 audit log
 SecAuditEngine On
 SecAuditLog /tmp/modsec_audit.log
 SecAuditLogParts ABIJDEFHZ
