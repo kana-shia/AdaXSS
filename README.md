@@ -1,5 +1,5 @@
 ﻿1. 訓練 Baseline ML-Rescue
-jupyter notebook XSS_with_TinyBERT_Training.ipynb(Baseline用kaggle的res/train_data/ xss_dataset.csv訓練完權重是BestModel_TinyBERT_1.keras)
+步驟是 jupyter notebook XSS_with_TinyBERT_Training.ipynb(Baseline用kaggle的res/train_data/ xss_dataset.csv訓練完權重是BestModel_TinyBERT_1.keras)
 
 2. 建立 200 筆 seed payload
 python Gpt_XSS_Mutations_Filter.py(先篩選出可以通過BestModel_TinyBERT_1.keras以及dom的payload 蒐集完的結果為res/train_data/successful_set_200.txt)
